@@ -1,0 +1,48 @@
+/* Light Theme */
+body.light-theme {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  body.light-theme .header {
+    background-color: #f8f9fa;
+  }
+  
+  body.light-theme .footer {
+    background-color: #343a40;
+    color: white;
+  }
+  
+  body.light-theme .footer a {
+    color: white;
+  }
+  
+  body.light-theme .card {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  /* Dark Theme */
+  body.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  body.dark-theme .header {
+    background-color: #1f1f1f;
+  }
+  
+  body.dark-theme .footer {
+    background-color: #1f1f1f;
+    color: #ffffff;
+  }
+  
+  body.dark-theme .footer a {
+    color: #ffffff;
+  }
+  
+  body.dark-theme .card {
+    background-color: #1f1f1f;
+    color: #ffffff;
+  }
+  
